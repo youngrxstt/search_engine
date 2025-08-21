@@ -1,6 +1,6 @@
 # Search Engine Project
 
-## 3. Форматы JSON
+##  Форматы JSON
 - **config.json**
   ```json
   {
@@ -51,7 +51,7 @@
   }
   ```
 
-  ## 5. Сборка и запуск
+  ##  Сборка и запуск
 ```bash
 mkdir build && cd build
 cmake ..            # Генерация сборочных файлов
